@@ -1,0 +1,26 @@
+{
+  "name": "@jerome-hardy-classiccarnetwork/decoratorlog1",
+  "version": "1.0.0",
+  "description": "decorator Log",
+  "keywords": [
+    "decorator",
+    "Classic",
+    "Car",
+    "Network"
+  ],
+  "homepage": "https://github.com/jerome-hardy-classiccarnetwork/decoratorLog1#readme",
+  "bugs": {
+    "url": "https://github.com/jerome-hardy-classiccarnetwork/decoratorLog1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerome-hardy-classiccarnetwork/decoratorLog1.git"
+  },
+  "license": "ISC",
+  "author": "Jerome Hardy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  }
+}
