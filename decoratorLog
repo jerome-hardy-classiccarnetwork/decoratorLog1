@@ -1,0 +1,16 @@
+function log(target, key, descriptor) {
+    console.log(`Logging ${key} function`);
+    return descriptor;
+  }
+  class Example {
+    //@log
+    greet() {
+      console.log("Hello, world!");
+    }
+  }
+  
+  let myLog = log('myTarget', 'myKey', 'myDescriptor');
+  console.log(myLog);   
+
+  const example = new Example();
+  example.greet();
