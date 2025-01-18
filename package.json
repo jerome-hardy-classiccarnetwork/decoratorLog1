@@ -1,12 +1,9 @@
 {
   "name": "@jerome-hardy-classiccarnetwork/decoratorlog1",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "decorator Log",
   "keywords": [
-    "decorator",
-    "Classic",
-    "Car",
-    "Network"
+    "decorator"
   ],
   "homepage": "https://github.com/jerome-hardy-classiccarnetwork/decoratorLog1#readme",
   "bugs": {
