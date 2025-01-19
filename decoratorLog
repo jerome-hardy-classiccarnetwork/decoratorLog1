@@ -8,9 +8,11 @@ function log(target, key, descriptor) {
       console.log("Hello, world!");
     }
   }
-  
-  let myLog = log('myTarget', 'myKey', 'myDescriptor');
-  console.log(myLog);   
 
-  const example = new Example();
-  example.greet();
+export default log;
+  
+  //let myLog = log('myTarget', 'myKey', 'myDescriptor');
+  //console.log(myLog);   
+
+  //const example = new Example();
+  //example.greet();
